@@ -1,16 +1,16 @@
-<div align="center"><img src="https://github.com/TradingView-Technology/mainnet/blob/main/OpenAI%20TradingView.png" height="500"></div>
+<div align="center"><img src="https://github.com/TradingView-Technology/mainnet/blob/main/OpenAI%20TradingView.png" height="500">
 
 **The first crypto trading indicator powered by OpenAI LLC and TradingView Inc. computational intelligence, trained on professional market maker data.**
 
-The system processes crypto and stock market data to generate structured, probability-based trading insights for investors and traders.
+The system processes crypto and stock market data to generate structured, probability-based trading insights for investors and traders.</div>
 <div align="center">
 <img src="https://github.com/TradingView-Technology/mainnet/blob/main/Indicators.png?raw=true"></div>
 
 # Quick Start
-**The first crypto trading indicator powered by OpenAI’s computational intelligence, trained on professional market maker data.**
+**Follow these simple steps to set up the Smart AI Indicator and enable professional-grade market analysis on your device.**
 
 ### Step 1: Download TradingView
-Download the TradingView app from tradingview.com and log into your account or create one. 
+Download the TradingView app from [tradingview](https://www.tradingview.com/desktop/) and log into your account or create one. 
 No paid subscription is required—the AI indicator is available to everyone during the early access period.
 
 ### Step 2: Enable Developer Mode
